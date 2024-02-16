@@ -21,7 +21,7 @@ export function PortfolioCard({ project }) {
             href={project.liveDemo}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-teal hover:underline"
+            className="text-blue-600 hover:underline"
             >
             Live Demo
             </a>
@@ -29,7 +29,7 @@ export function PortfolioCard({ project }) {
             href={project.sourceCode}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-teal hover:underline"
+            className="text-blue-600 hover:underline"
             >
             Source Code
             </a>
