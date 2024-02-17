@@ -5,8 +5,8 @@ import { ScrollToTop } from "./components/reuseable";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio Personal",
-  description: "Powered by spades, a simple personal website with a touch of portfolio section to outline your best works.",
+  title: "Portfolio Pro",
+  description: "Powered by spades, a simple portfolio website with a touch of personality to elevate you and outline your best works.",
   icons: '/SPADES.ICO'
 };
 
